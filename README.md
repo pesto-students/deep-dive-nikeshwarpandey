@@ -42,8 +42,11 @@ Instructions
 16. Reapeat step 6 to 14 
 
 Note
+
 -> One question per Pull Request
+
 -> Each Pull Request should have code only related to that question
+
 -> If you have changes related to babel etc. please create a separate PR for that and merge it
 
 
