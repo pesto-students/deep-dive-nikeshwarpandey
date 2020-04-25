@@ -36,7 +36,8 @@ Instructions
 13. push changes
 14. create a Pull Request
 
- => For Next Exercise
+   => For Next Exercise
+ 
 15. cd.. (Go back to deep-dive-username folder. This is parent folder of js-exercise)
 16. Reapeat step 6 to 14 
 
